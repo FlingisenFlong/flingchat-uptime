@@ -22,19 +22,19 @@
     "url": "https://thoughts.glowberry.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/thoughts.glowberry.xyz.ico",
     "slug": "thoughts",
-    "status": "down",
-    "uptime": "94.80%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "94.80%",
-    "uptimeMonth": "94.80%",
-    "uptimeYear": "94.80%",
-    "time": 883,
-    "timeDay": 883,
-    "timeWeek": 883,
-    "timeMonth": 883,
-    "timeYear": 883,
+    "status": "up",
+    "uptime": "93.56%",
+    "uptimeDay": "93.56%",
+    "uptimeWeek": "93.56%",
+    "uptimeMonth": "93.56%",
+    "uptimeYear": "93.56%",
+    "time": 786,
+    "timeDay": 786,
+    "timeWeek": 786,
+    "timeMonth": 786,
+    "timeYear": 786,
     "dailyMinutesDown": {
-      "2024-09-05": 58
+      "2024-09-05": 73
     }
   }
 ]
