@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/chat.glowberry.xyz.ico",
     "slug": "flingchat",
     "status": "up",
-    "uptime": "98.81%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "98.81%",
-    "uptimeMonth": "98.81%",
-    "uptimeYear": "98.81%",
+    "uptime": "99.37%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.37%",
+    "uptimeYear": "99.37%",
     "time": 1790,
     "timeDay": 345,
     "timeWeek": 1790,
     "timeMonth": 1790,
     "timeYear": 1790,
     "dailyMinutesDown": {
-      "2024-09-06": 30
+      "2024-09-06": 16
     }
   },
   {
@@ -24,18 +24,19 @@
     "url": "https://thoughts.glowberry.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/thoughts.glowberry.xyz.ico",
     "slug": "thoughts",
-    "status": "up",
-    "uptime": "97.63%",
+    "status": "down",
+    "uptime": "97.67%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "97.63%",
-    "uptimeMonth": "97.63%",
-    "uptimeYear": "97.63%",
+    "uptimeWeek": "97.67%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "97.67%",
     "time": 706,
     "timeDay": 379,
     "timeWeek": 706,
     "timeMonth": 706,
     "timeYear": 706,
     "dailyMinutesDown": {
+      "2024-09-06": 0,
       "2024-09-05": 58
     }
   }
