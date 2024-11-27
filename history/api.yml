@@ -1,7 +1,7 @@
-url: https://api.glowberry.xyz
-status: down
-code: 404
-responseTime: 256
-lastUpdated: 2024-11-26T23:10:22.524Z
+url: https://api.glowberry.xyz/test
+status: up
+code: 200
+responseTime: 266
+lastUpdated: 2024-11-27T12:59:06.802Z
 startTime: 2024-11-14T13:24:22.871Z
 generator: Upptime <https://github.com/upptime/upptime>
